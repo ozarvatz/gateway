@@ -1,0 +1,9 @@
+syntax: glob
+meps.clpprj
+protected/runtime
+protected/temp
+protected/cache
+upload/temp
+assets
+uploads
+*.orig
